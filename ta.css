@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.con{
+    height: 60vh;
+    width: 60vw;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    background: #ececec;
+    border-radius: 15px;
+    background: linear-gradient(rgb(243, 200, 113),rgb(235, 187, 93),rgb(66, 64, 64),green,#ee87cf);
+    box-shadow: -40px -30px 15px rgb(247, 236, 215),20px 20px 15px rgb(228, 186, 215);
+    text-align: center;
+    TR
+}
